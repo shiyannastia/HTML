@@ -1,0 +1,27 @@
+body {
+    background: burlywood;
+}
+
+h1 {
+    background: #ff8917;
+    color: #ffedad;
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    background: #ffedad;
+    color: #ff8917;
+}
+
+h2 {
+    background: #ffedad;
+    color: #ff8917;
+}
+
+ul {
+    background: bisque;
+    color: #ff8917;
+}
